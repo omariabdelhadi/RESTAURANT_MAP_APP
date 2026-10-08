@@ -28,7 +28,8 @@ Permettre de repérer des restaurants (points d'intérêt géoréférencés), de
 
 ### Carte des restaurants
 
-![Carte des restaurants](colle ici l'image)
+<img width="246" height="475" alt="image" src="https://github.com/user-attachments/assets/77022e8c-d75f-4c00-9d1f-48b3ff6c5bef" />
+
 
 ### Ajout d'un restaurant
 
