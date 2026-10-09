@@ -34,6 +34,10 @@ Permettre de repérer des restaurants (points d'intérêt géoréférencés), de
 ### Ajout d'un restaurant
 
 <img width="237" height="490" alt="image" src="https://github.com/user-attachments/assets/08978483-d67c-401d-a1e2-b6dba898a3fd" />
+<img width="240" height="493" alt="image" src="https://github.com/user-attachments/assets/aede489d-bc64-4a17-8de5-8da8df8522d1" />
+<img width="237" height="488" alt="image" src="https://github.com/user-attachments/assets/d7fb19af-a971-46c8-a1bc-43001da3f652" />
+
+
 
 
 ### Recherche et filtre
