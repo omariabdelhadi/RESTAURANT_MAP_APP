@@ -48,6 +48,10 @@ Permettre de repérer des restaurants (points d'intérêt géoréférencés), de
 ### détails d'un restaurant
 
 <img width="250" height="512" alt="image" src="https://github.com/user-attachments/assets/8694ea21-ddc3-414b-82de-c43e9a85ff88" />
+<img width="249" height="511" alt="image" src="https://github.com/user-attachments/assets/88817230-b64c-4640-b62e-b605391ef56f" />
+<img width="247" height="510" alt="image" src="https://github.com/user-attachments/assets/aa7d8db5-bcd0-4a84-8bcd-8d917b59858c" />
+
+
 
 ## Lancer le projet
 
